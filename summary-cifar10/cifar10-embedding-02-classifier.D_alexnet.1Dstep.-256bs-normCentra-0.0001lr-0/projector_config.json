@@ -1,9 +1,9 @@
 {
   "embeddings": [
     {
-      "tensorName": "image_embedding",
+      "tensorName": "image_embedding:0",
       "tensorShape": [
-        1024,
+        256,
         4096
       ],
       "tensorPath": "https://github.com/BassyKuo/TFEmbeddingVisualization/blob/master/summary-cifar10/cifar10-embedding-02-classifier.D_alexnet.1Dstep.-256bs-normCentra-0.0001lr-0/embedding_var.tsv",
