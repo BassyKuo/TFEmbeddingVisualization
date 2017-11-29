@@ -5,7 +5,7 @@
 			"metadata_path": "https://github.com/BassyKuo/TFEmbeddingVisualization/blob/master/summary-cifar10/cifar10-embedding-02-classifier.D_alexnet.1Dstep.-256bs-normCentra-0.0001lr-0/embedding_list.tsv",
 			"tensor_path": "https://github.com/BassyKuo/TFEmbeddingVisualization/blob/master/summary-cifar10/cifar10-embedding-02-classifier.D_alexnet.1Dstep.-256bs-normCentra-0.0001lr-0/embedding_var.tsv",
 			"sprite": {
-				"image_path: "https://github.com/BassyKuo/TFEmbeddingVisualization/blob/master/summary-cifar10/cifar10-embedding-02-classifier.D_alexnet.1Dstep.-256bs-normCentra-0    .0001lr-0/sprite.png",
+				"image_path: "https://github.com/BassyKuo/TFEmbeddingVisualization/blob/master/summary-cifar10/cifar10-embedding-02-classifier.D_alexnet.1Dstep.-256bs-normCentra-0.0001lr-0/sprite.png",
 				"single_image_dim: [32, 32]
 			}
 		}
